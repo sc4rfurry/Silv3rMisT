@@ -1,0 +1,6 @@
+python-dotenv
+requests
+email_validator
+windows-curses
+progressbar
+openai
